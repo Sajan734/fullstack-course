@@ -26,10 +26,6 @@ h2 {
     border: 1px solid black;
 }
 
-#chicken, #beef, #sushi {
-    /* margin: 5px; */
-}
-
 #chicken h2 {
     background-color: pink;
 }
